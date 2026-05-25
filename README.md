@@ -31,3 +31,5 @@ python main.py *.md --output-dir pdfs/
 ## Note
 
 WeasyPrint requires system dependencies. On macOS: `brew install pango`. On Ubuntu: `apt install libpango-1.0-0 libpangoft2-1.0-0`.
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
